@@ -1,0 +1,21 @@
+Nivel,BBA,Fort,Refl,Vont,Habilidades,Hit Die,Skill multiplier
+1,1,2,2,0,"1st favored enemy, Track, wild empathy",8,6
+2,2,3,3,0,Combat style,-,-
+3,3,3,3,1,Endurance,-,-
+4,4,4,4,1,Animal companion,-,-
+5,5,4,4,1,2nd favored enemy,-,-
+6,6,5,5,2,Improved combat style,-,-
+7,7,5,5,2,Woodland stride,-,-
+8,8,6,6,2,Swift tracker,-,-
+9,9,6,6,3,Evasion,-,-
+10,10,7,7,3,3rd favored enemy,-,-
+11,11,7,7,3,Combat style mastery,-,-
+12,12,8,8,4,-,-,-
+13,13,8,8,4,Camouflage,-,-
+14,14,9,9,4,-,-,-
+15,15,9,9,5,4th favored enemy,-,-
+16,16,10,10,5,-,-,-
+17,17,10,10,5,Hide in plain sight,-,-
+18,18,11,11,6,-,-,-
+19,19,11,11,6,-,-,-
+20,20,12,12,6,5th favored enemy,-,-

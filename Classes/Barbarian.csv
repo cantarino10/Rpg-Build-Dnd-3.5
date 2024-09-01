@@ -1,0 +1,21 @@
+Nivel,BBA,Fort,Refl,Vont,Habilidades,Hit Die,Skill multiplier
+1,1,2,0,0,"Fast movemente, illiteracy, rage 1/day",12,4
+2,2,3,0,0,Uncanny dodge,-,-
+3,3,3,1,1,Trap sense +1,-,-
+4,4,4,1,1,Rage 2/day,-,-
+5,5,4,1,1,Improved uncanny dodge,-,-
+6,6,5,2,2,Trap sense +2,-,-
+7,7,5,2,2,Damage reduction 1/—,-,-
+8,8,6,2,2,Rage 3/day,-,-
+9,9,6,3,3,Trap sense +3,-,-
+10,10,7,3,3,Damage reduction 2/—,-,-
+11,11,7,3,3,Greater rage,-,-
+12,12,8,4,4,"Rage 4/day, trap sense +4",-,-
+13,13,8,4,4,Damage reduction 3/—,-,-
+14,14,9,4,4,Indomitable will,-,-
+15,15,9,5,5,Trap sense +5,-,-
+16,16,10,5,5,"Damage reduction 4/—, rage 5/day",-,-
+17,17,10,5,5,Tireless rage,-,-
+18,18,11,6,6,Trap sense +6,-,-
+19,19,11,6,6,Damage reduction 5/—,-,-
+20,20,12,6,6,"Mighty rage, rage 6/day",-,-

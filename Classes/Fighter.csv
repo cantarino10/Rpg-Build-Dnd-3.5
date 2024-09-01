@@ -1,0 +1,21 @@
+Nivel,BBA,Fort,Refl,Vont,Habilidades,Hit Die,Skill multiplier
+1,1,2,0,0,Talento Adicional,10,2
+2,2,3,0,0,Talento Adicional,-,-
+3,3,3,1,1,-,-,-
+4,4,4,1,1,Talento Adicional,-,-
+5,5,4,1,1,-,-,-
+6,6,5,2,2,Talento Adicional,-,-
+7,7,5,2,2,-,-,-
+8,8,6,2,2,Talento Adicional,-,-
+9,9,6,3,3,-,-,-
+10,10,7,3,3,Talento Adicional,-,-
+11,11,7,3,3,-,-,-
+12,12,8,4,4,Talento Adicional,-,-
+13,13,8,4,4,-,-,-
+14,14,9,4,4,Talento Adicional,-,-
+15,15,9,5,5,-,-,-
+16,16,10,5,5,Talento Adicional,-,-
+17,17,10,5,5,-,-,-
+18,18,11,6,6,Talento Adicional,-,-
+19,19,11,6,6,-,-,-
+20,20,12,6,6,Talento Adicional,-,-

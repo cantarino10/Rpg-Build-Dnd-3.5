@@ -1,0 +1,21 @@
+Nivel,BBA,Fort,Refl,Vont,Habilidades,Hit Die,Skill multiplier
+1,1,2,2,0,"Aura of good, detect evil, smite evil 1/day",10,2
+2,2,3,3,0,"Divine grace, lay on hands",-,-
+3,3,3,3,1,"Aura of courage, divine health",-,-
+4,4,4,4,1,Turn undead,-,-
+5,5,4,4,1,"Smite evil 2/day, special mount",-,-
+6,6,5,5,2,"Remove disease 1/week",-,-
+7,7,5,5,2,-,-,-
+8,8,6,6,2,-,-,-
+9,9,6,6,3,"Remove disease 2/week",-,-
+10,10,7,7,3,Smite evil 3/day,-,-
+11,11,7,7,3,-,-,-
+12,12,8,8,4,Remove disease 3/week,-,-
+13,13,8,8,4,-,-,-
+14,14,9,9,4,-,-,-
+15,15,9,9,5,"Remove disease 4/week, smite evil 4/day",-,-
+16,16,10,10,5,-,-,-
+17,17,10,10,5,-,-,-
+18,18,11,11,6,Remove disease 5/week,-,-
+19,19,11,11,6,-,-,-
+20,20,12,12,6,5th favored enemy,-,-

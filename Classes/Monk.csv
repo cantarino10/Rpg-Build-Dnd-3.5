@@ -1,0 +1,21 @@
+Nivel,BBA,Fort,Refl,Vont,Habilidades,"Flurry of Blows,Bonus attack",Unarmored damage,AC Bonus,Unarmored Speed Bonus (Ft),Hit Die,Skill multiplier
+1,0,2,2,2,"Bonus feat, flurry of blows, unarmed strike",-2/-2,1d6,0,0,8,4
+2,1,3,3,3,"Bonus feat, evasion",-1/-1,1d6,0,0,-,-
+3,2,3,3,3,Still mind,0/0,1d6,0,10,-,-
+4,3,4,4,4,"Ki strike (magic), slow fall 20 ft.",1/1,1d8,0,10,-,-
+5,3,4,4,4,Purity of body,2/2,1d8,1,10,-,-
+6,4,5,5,5,"Bonus feat, slow fall 30 ft.",3/3,1d8,1,20,-,-
+7,5,5,5,5,Wholeness of body,4/4,1d8,1,20,-,-
+8,6,6,6,6,Slow fall 40 ft.,5/5/0,1d10,1,20,-,-
+9,6,6,6,6,Improved evasion,6/6/1,1d10,1,30,-,-
+10,7,7,7,7,"Ki strike (lawful), slow fall 50 ft.",7/7/2,1d10,2,30,-,-
+11,8,7,7,7,"Diamond body, greater flurry",8/8/8/3,1d10,2,30,-,-
+12,9,8,8,8,"Abundant step, slow fall 60 ft.",9/9/9/4,2d6,2,40,-,-
+13,9,8,8,8,Diamond soul,9/9/9/4,2d6,2,40,-,-
+14,10,9,9,9,Slow fall 70 ft.,10/10/10/5,2d6,2,40,-,-
+15,11,9,9,9,Quivering palm,11/11/11/6/1,2d6,3,50,-,-
+16,12,10,10,10,"Ki strike (adamantine), slow fall 80 ft.",12/12/12/7/2,2d8,3,50,-,-
+17,12,10,10,10,"Timeless body, tongue of the sun and moon",12/12/12/7/2,2d8,3,50,-,-
+18,13,11,11,11,Slow fall 90 ft.,13/13/13/8/3,2d8,3,60,-,-
+19,14,11,11,11,Empty body,14/14/14/9/4,2d8,3,60,-,-
+20,15,12,12,12,"Perfect self, slow fall any distance",15/15/15/10/5,2d10,4,60,-,-

@@ -1,0 +1,12 @@
+Classe,str,dex,con,int,wis,cha
+Barbarian,7,1,7,0,0,0
+Bard,1,2,0,3,0,9
+Cleric,2,0,2,0,7,4
+Druid,3,0,3,0,6,3
+Fighter,8,2,5,0,0,0
+Monk,7,1,3,0,4,0
+Paladin,6,0,5,0,2,2
+Ranger,2,3,2,3,4,1
+Rogue,0,8,0,6,0,1
+Sorcerer,0,2,0,1,0,12
+Wizard,0,2,0,13,0,0
